@@ -20,7 +20,11 @@ The following are the libraries needed for this project.
 * Scikit-learn
 * OpenCV
 
+## Technologies 
 
+* Python(v3.7.0)
+* Anaconda(v4.6.11)
+* Jupyter Notebook(v5.2.4)
 
 ## Resources
 
