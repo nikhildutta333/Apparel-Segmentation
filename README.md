@@ -8,11 +8,21 @@ The objective of the project is to detect the dominant colors of the apparel in 
 ## Getting Started
 
 1) Clone the project in your local machine.
-2) The file will contain the inputs file, paste the input images into that file.
-3) Run the python code and the Output file with the output is generated.
+2) The Cloned file will contain the inputs file, paste the input images into that file.
+3) Run the python code and the Output file with the Output is generated.
+
+## Prerequisites
+
+The following are the libraries needed for this project.
+
+* Numpy
+* Pandas
+* Scikit-learn
+* OpenCV
 
 
-## Acknowledgments
+
+## Resources
 
 * PythonPackageIndex :https://pypi.org/
 * OpenCV : https://docs.opencv.org/
